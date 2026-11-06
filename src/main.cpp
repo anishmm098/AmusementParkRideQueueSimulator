@@ -100,7 +100,7 @@ public:
         return totalVisitors;
     }
 
-    // Friend function declaration
+    // Friend function declaration+
     friend void displayVisitorDetails(Visitor *v);
 };
 
